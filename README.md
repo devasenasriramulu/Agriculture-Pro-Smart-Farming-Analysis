@@ -7,4 +7,11 @@ The project uses Microsoft Excel and Power BI for data analysis and visualizatio
       - Microsoft Excel
       - Power BI
       - DAX
+## Project Features
+      - Interactive Power BI Dashboard
+      - DAX-based calculations and analysis
+      - Charts and visualizations
+      - Interactive slicers for filtering
+      - Cards for displaying key metrics
+      - Page navigation between dashboard pages
 
