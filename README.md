@@ -15,7 +15,7 @@ The project uses Microsoft Excel and Power BI for data analysis and visualizatio
       - Cards for displaying key metrics
       - Page navigation between dashboard pages
 ## DAX Functions Used
-DAX was used to create calculated measures for the Power BI dashboard, including:
+DAX was used to create calculated measures for the Power BI dashboard.
        - Total Revenue
        - Total Irrigation
        - Total Acres
