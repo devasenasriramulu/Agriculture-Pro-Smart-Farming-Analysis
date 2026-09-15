@@ -29,8 +29,8 @@ DAX was used to create calculated measures for the Power BI dashboard.
       
 ## Charts Used
 ### Page 1 – Overview
-    - Column Chart – Used to compare the count of seasons across different locations.
-    - Pie Chart – Used to show the distribution of locations by irrigation type.
+   - Column Chart – Used to compare the count of seasons across different locations.
+   - Pie Chart – Used to show the distribution of locations by irrigation type.
 
 ### Page 2 – Crop Analysis
    - Clustered Column Chart – Used to compare crop-wise production across Kharif, Rabi, and summer seasons.
