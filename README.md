@@ -49,5 +49,13 @@ DAX was used to create calculated measures for the Power BI dashboard.
    - Stacked Column Chart – Used to compare location-wise production by irrigation type.
    - Area Chart – Used to compare production across different locations.
 
+## Slicers Used
+   - Slicers – Used to filter dashboard data interactively.
+
+### Page 1 – Overview
+   * Location – Used to filter the dashboard based on different locations.
+   * Irrigation Type – Used to filter the data based on different irrigation types.
+   * Season – Used to filter the agricultural data based on different seasons.
+
 
 
