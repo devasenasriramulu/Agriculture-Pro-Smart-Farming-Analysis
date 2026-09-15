@@ -6,26 +6,26 @@ Agriculture Pro – Smart Farming Analysis is a data analytics project that anal
 The project uses Microsoft Excel and Power BI for data analysis and visualization. The interactive dashboard includes DAX calculations, charts, slicers, and page navigation for easy analysis.
 
 ## Tools & Technologies
-      - Microsoft Excel
-      - Power BI
-      - DAX
+    - Microsoft Excel
+    - Power BI
+    - DAX
       
 ## Project Features
-      - Interactive Power BI Dashboard
-      - DAX-based calculations and analysis
-      - Charts and visualizations
-      - Interactive slicers for filtering
-      - Cards for displaying key metrics
-      - Page navigation between dashboard pages
+    - Interactive Power BI Dashboard
+    - DAX-based calculations and analysis
+    - Charts and visualizations
+    - Interactive slicers for filtering
+    - Cards for displaying key metrics
+    - Page navigation between dashboard pages
       
 ## DAX Functions Used
 DAX was used to create calculated measures for the Power BI dashboard.
-      - Total Revenue
-      - Total Irrigation
-      - Total Acres
-      - Total Soil
-      - Total Rainfall
-      - Total Crop
+   - Total Revenue
+   - Total Irrigation
+   - Total Acres
+   - Total Soil
+   - Total Rainfall
+   - Total Crop
       
 ## Charts Used
 ### Page 1 – Overview
