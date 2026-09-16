@@ -106,6 +106,9 @@ DAX was used to create calculated measures for the Power BI dashboard.
   * Integrate additional agricultural data sources.
   * Improve the dashboard for better decision-making.
 
-
+## Conclusion
+  * The project provides an interactive dashboard for analyzing agricultural data.
+  * Power BI and DAX help identify important agricultural patterns and trends.
+  * The dashboard makes agricultural data easier to understand and analyze.
 
 
