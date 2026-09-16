@@ -1,6 +1,9 @@
 # Agriculture-Pro-Smart-Farming-Analysis
 Agriculture Data Analysis and Smart Farming Dashboard using Power BI
 
+## Power BI Dashboard 
+[Download Power BI Dashboard](AGRICULTURE%20DASHBOARD.pbix)
+
 ## Project Overview
 Agriculture Pro – Smart Farming Analysis is a data analytics project that analyzes agricultural data to identify insights related to crop production, seasons, soil type, irrigation, temperature, rainfall, and location.
 The project uses Microsoft Excel and Power BI for data analysis and visualization. The interactive dashboard includes DAX calculations, charts, slicers, and page navigation for easy analysis.
@@ -81,5 +84,7 @@ DAX was used to create calculated measures for the Power BI dashboard.
 
 ### Page 4 – Soil & Location Analysis
 ![Page 4 Soil and Location Analysis](Dashboard-Screenshots/Screenshot%202026-09-07%20201308.png)
+
+
 
 
