@@ -57,5 +57,10 @@ DAX was used to create calculated measures for the Power BI dashboard.
    * Irrigation Type – Used to filter the data based on different irrigation types.
    * Season – Used to filter the agricultural data based on different seasons.
 
+## Page Navigation
+  - Page navigation buttons were used to navigate easily between the four dashboard pages.
+  - They provide a simple and interactive way to move from one analysis page to another.
+  - This improves the overall usability and navigation of the Power BI dashboard.
+
 
 
