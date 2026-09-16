@@ -79,5 +79,7 @@ DAX was used to create calculated measures for the Power BI dashboard.
 ### Page 3 – Irrigation Analysis
 ![Page 3 Irrigation Analysis](Dashboard-Screenshots/Screenshot%202026-09-07%20201239.png)
 
+### Page 4 – Soil & Location Analysis
+![Page 4 Soil and Location Analysis](Dashboard-Screenshots/Screenshot%202026-09-07%20201308.png)
 
 
