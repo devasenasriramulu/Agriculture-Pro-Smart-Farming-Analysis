@@ -91,6 +91,14 @@ DAX was used to create calculated measures for the Power BI dashboard.
   * The dataset was analyzed using Microsoft Excel and Power BI.
   * The data was used to create interactive dashboards and identify agricultural insights.
 
+## Project Workflow
+  * Collected and organized the agricultural dataset.
+  * Cleaned and prepared the data using Microsoft Excel.
+  * Imported the dataset into Power BI.
+  * Created DAX measures for key metrics.
+  * Designed charts, slicers, and dashboard pages.
+  * Added page navigation for interactive analysis.
+
 
 
 
