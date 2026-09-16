@@ -76,7 +76,8 @@ DAX was used to create calculated measures for the Power BI dashboard.
 ### Page 2 – Crop Analysis
 ![Page 2 Crop Analysis](Dashboard-Screenshots/Screenshot%202026-09-07%20201115.png)
 
-
+### Page 3 – Irrigation Analysis
+![Page 3 Irrigation Analysis](Dashboard-Screenshots/Screenshot%202026-09-07%20201239.png)
 
 
 
