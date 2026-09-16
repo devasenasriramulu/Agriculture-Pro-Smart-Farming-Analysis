@@ -70,7 +70,8 @@ DAX was used to create calculated measures for the Power BI dashboard.
   * Interactive slicers and charts make it easier to identify important agricultural trends.
 
 ## Dashboard Preview
-Dashboard-Screenshots/Screenshot 2026-09-07 201049.png
+### Page 1 – Overview
+![Page 1 Dashboard](Dashboard-Screenshots/Screenshot%202026-09-07%20201049.png)
 
 
 
