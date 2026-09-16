@@ -99,6 +99,13 @@ DAX was used to create calculated measures for the Power BI dashboard.
   * Designed charts, slicers, and dashboard pages.
   * Added page navigation for interactive analysis.
 
+## Future Enhancements
+  * Add real-time agricultural data for continuous monitoring.
+  * Include additional crop and soil-related parameters.
+  * Add more advanced Power BI visualizations.
+  * Integrate additional agricultural data sources.
+  * Improve the dashboard for better decision-making.
+
 
 
 
