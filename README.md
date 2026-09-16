@@ -69,5 +69,8 @@ DAX was used to create calculated measures for the Power BI dashboard.
   * Soil and location-based data can be analyzed to understand production patterns.
   * Interactive slicers and charts make it easier to identify important agricultural trends.
 
+## Dashboard Preview
+
+
 
 
