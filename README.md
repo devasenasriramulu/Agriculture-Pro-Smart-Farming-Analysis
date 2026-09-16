@@ -62,5 +62,12 @@ DAX was used to create calculated measures for the Power BI dashboard.
   - They provide a simple and interactive way to move from one analysis page to another.
   - This improves the overall usability and navigation of the Power BI dashboard.
 
+## Key Insights
+  * The dashboard provides insights into crop production and revenue.
+  * Agricultural data can be analyzed based on different seasons and locations.
+  * Irrigation types and water usage can be compared across crops and seasons.
+  * Soil and location-based data can be analyzed to understand production patterns.
+  * Interactive slicers and charts make it easier to identify important agricultural trends.
+
 
 
