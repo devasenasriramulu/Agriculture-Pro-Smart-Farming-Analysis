@@ -85,6 +85,12 @@ DAX was used to create calculated measures for the Power BI dashboard.
 ### Page 4 – Soil & Location Analysis
 ![Page 4 Soil and Location Analysis](Dashboard-Screenshots/Screenshot%202026-09-07%20201308.png)
 
+## Dataset
+  * Contains agricultural data related to crop production and revenue.
+  * Includes information on crops, seasons, soil type, irrigation, rainfall, temperature, and location.
+  * The dataset was analyzed using Microsoft Excel and Power BI.
+  * The data was used to create interactive dashboards and identify agricultural insights.
+
 
 
 
